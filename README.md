@@ -24,7 +24,7 @@ A repository where I learn different programming languages, practice coding, and
 
 --->
 
-## 📫 Contact Me
+## 📫 Contacts
 
 Feel free to reach out!
 
