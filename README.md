@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer
 
-I'm a beginner programmer passionate about **web development** and everything related to building for the web. 🚀
+I'm a beginner programmer passionate about **web development(front-end)** and everything related to building for the web. 🚀
 
 I'm currently learning, improving my skills, and exploring new technologies. I enjoy experimenting with code, building small projects, and turning ideas into reality. My goal is to keep growing as a developer and create something useful and interesting.
 
